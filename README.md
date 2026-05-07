@@ -1,7 +1,7 @@
 # Stateless Persons Digital Twin
 ### UN 1954 Convention Framework · UNHCR #IBelong · SDG 16.9
 
-**[→ Open the Live Prototype](https://lequanne.github.io/statelessness-digital-process-twin/)**
+**[→ Open the Live Prototype](https://lequanne.github.io/digital-twin-UN-stateless/)**
 
 A prototype digital twin system that models the legal situation, rights access, vulnerability profile, and pathway to durable solutions for stateless persons across six documented populations — grounded in the UN 1954 Convention on the Status of Stateless Persons, the UNHCR #IBelong 10-Point Action Plan, and SDG 16.9 (legal identity for all by 2030).
 
