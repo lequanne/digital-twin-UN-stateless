@@ -27,6 +27,8 @@ Stateless persons sit in a unique gap in international law. They are not citizen
 
 Statelessness is frequently inherited across generations, and is often rooted in colonial-era exclusions, post-independence citizenship laws designed to exclude ethnic minorities, or state succession that leaves populations between jurisdictions. The consequences are severe: no birth certificate, no school enrolment, no employment contract, no ability to open a bank account, no access to healthcare systems, and no recourse when rights are violated.
 
+![Architecture](https://drive.google.com/file/d/1G730LGCpaiRcl3qp_JtgeJUG67khn7wY/view?usp=sharing)
+
 ---
 
 ## Covered Populations
